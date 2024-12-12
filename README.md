@@ -1,2 +1,2 @@
-# Unity-2DPlxelArtLight
-Unity 2D Basic Lighting Example
+# Unity-2DPixelArtLight
+Unity 2D Basic Pixel Art Lighting Example

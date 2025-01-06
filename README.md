@@ -1,3 +1,3 @@
-# Unity PixelArt Light2D
+# Unity Light2D for PixelArt
 Unity Basic Learn Light 2D Example for Pixel Art<br>
 **[Unity Learn Page](https://learn.unity.com/project/pixelartlight2d)**
